@@ -1,0 +1,234 @@
+
+batman.html:
+
+html
+
+<!DOCTYPE html>
+
+<html lang=”pt-br”>
+
+<head>
+
+    <meta charset=”UTF-8”>
+
+    <meta name=”viewport” content=”width=device-width, initial-scale=1.0”>
+
+    <title>Batman</title>
+
+</head>
+
+<body>
+
+    <h1>Batman</h1>
+
+    <img src=”Armazenamento interno/
+Documents/danielgg2/
+images (31)jpeg” alt=”Batman”>
+
+    <h2>Experiência Profissional</h2>
+
+    <ol>
+
+        <li>LOBO SOLITÁRIO</li>
+
+        <li>Batman com preparo</li>
+
+        <li>Dono da Empresa</li>
+
+    </ol>
+
+    <h2>Habilidades/Especialidades</h2>
+
+    <ul>
+
+        <li>Genialidade tática</li>
+
+        <li>Artes marciais</li>
+
+        <li>Tecnologia secretas</li>
+
+    </ul>
+
+    <a href=”../index.html”>Voltar para a página principal</a>
+
+</body>
+
+</html>
+
+
+
+
+<!DOCTYPE html>
+
+<html lang=”pt-br”>
+
+<head>
+
+    <meta charset=”UTF-8”>
+
+    <meta name=”viewport” content=”width=device-width, initial-scale=1.0”>
+
+    <title>Flash</title>
+
+</head>
+
+<body>
+
+    <h1>Flash</h1>
+
+    <img src=”imagens/flash.jpg” alt=”Flash”>
+
+    <h2>Experiência Profissional</h2>
+
+    <ol>
+
+        <li>Viajou no tempo</li>
+
+        <li>Dominador força de aceleração</li>
+
+        <li>Membro da Liga da Justiça</li>
+
+    </ol>
+
+    <h2>Habilidades/Especialidades</h2>
+
+    <ul>
+
+        <li>Velocidade sobre-humana</li>
+
+        <li>Viagem no tempo</li>
+
+        <li>Intangibilidade</li>
+
+    </ul>
+
+    <a href=”../index.html”>Voltar para a página principal</a>
+
+</body>
+
+</html>
+
+
+
+
+
+
+<!DOCTYPE html>
+
+<html lang=”pt-br”>
+
+<head>
+
+    <meta charset=”UTF-8”>
+
+    <meta name=”viewport” content=”width=device-width, initial-scale=1.0”>
+
+    <title>Mulher Maravilha</title>
+
+</head>
+
+<body>
+
+    <h1>Mulher Maravilha</h1>
+
+    <img src=”imagens/mulher-maravilha.jpg” alt=”Mulher Maravilha”>
+
+    <h2>Experiência Profissional</h2>
+
+    <ol>
+
+        <li>Mais de cem anos</li>
+
+        <li>Lutou segunda guerra</li>
+
+        <li>Membro da Liga da Justiça</li>
+
+    </ol>
+
+    <h2>Habilidades/Especialidades</h2>
+
+    <ul>
+
+        <li>Super força</li>
+
+        <li>Invulnerabilidade</li>
+
+        <li>Habilidades de combate</li>
+
+    </ul>
+
+    <a href=”../index.html”>Voltar para a página principal</a>
+
+</body>
+
+</html>
+
+
+
+
+
+
+<!DOCTYPE html>
+
+<html lang=”pt-br”>
+
+<head>
+
+    <meta charset=”UTF-8”>
+
+    <meta name=”viewport” content=”width=device-width, initial-scale=1.0”>
+
+    <title>Aquaman</title>
+
+</head>
+
+<body>
+
+    <h1>Aquaman</h1>
+
+    <img src=”imagens/aquaman.jpg” alt=”Aquaman”>
+
+    <h2>Experiência Profissional</h2>
+
+    <ol>
+
+        <li>Rei de Atlântida</li>
+
+        <li>Protetor dos oceanos</li>
+
+        <li>Membro da Liga da Justiça</li>
+
+    </ol>
+
+    <h2>Habilidades/Especialidades</h2>
+
+    <ul>
+
+        <li>Comunicação com peixes</li>
+
+        <li>Bebedor profissional</li>
+
+        <li>Durabilidade</li>
+
+    </ul>
+
+    <a href=”../index.html”>Voltar para a página principal</a>
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
