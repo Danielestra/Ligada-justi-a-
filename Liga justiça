@@ -74,7 +74,8 @@ html
 
     <h1>Flash</h1>
 
-    <img src=”imagens/flash.jpg” alt=”Flash”>
+    <img src=”images(32).jpeg” 
+alt=”Flash”>
 
     <h2>Experiência Profissional</h2>
 
@@ -129,7 +130,7 @@ html
 
     <h1>Mulher Maravilha</h1>
 
-    <img src=”imagens/mulher-maravilha.jpg” alt=”Mulher Maravilha”>
+    <img src=”images(33).jpeg” alt=”Mulher Maravilha”>
 
     <h2>Experiência Profissional</h2>
 
@@ -184,7 +185,7 @@ html
 
     <h1>Aquaman</h1>
 
-    <img src=”imagens/aquaman.jpg” alt=”Aquaman”>
+    <img src=”images(34).jpeg” alt=”Aquaman”>
 
     <h2>Experiência Profissional</h2>
 
